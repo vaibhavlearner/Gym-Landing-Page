@@ -1,0 +1,75 @@
+.bg-red {
+    background-color: red;
+}
+
+.min-h-screen {
+    min-height: 100vh;
+}
+
+.mx-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container {
+    max-width: 90%; /* Example of using percentage for width */
+    margin: 0 auto; /* Center the container */
+    /* display: flex;
+    flex-wrap: wrap; */
+}
+.flex {
+    display: flex;
+}
+
+.items-center {
+    align-items: center;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.justify-around {
+    justify-content: space-around;
+}
+
+.font-bold {
+    font-weight: 1000;
+    font-size: 150%;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+.flex-row {
+    flex-direction: row;
+}
+
+.px-2 {
+    padding-left: 13px;
+}
+
+.text-blue {
+    color: rgb(227 74 55);
+}
+
+.text-center {
+    text-align: center;
+}
+
+.btn {
+    padding: 4px 10px;
+    border: 2px solid black;
+    color: white;
+    background-color: rgb(227 74 55);
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+.overflow-xhidden {
+    overflow-x: hidden;
+}
